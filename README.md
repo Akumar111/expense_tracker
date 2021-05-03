@@ -6,3 +6,11 @@ Once the expense is added it is listed in the array list below and also the grap
 One can also filter the expenses based upon the year of their choosing.
 
 ![images](1.png)
+
+![images](2.png)
+
+![images](3.png)
+
+![images](4.png)
+
+![images](5.png)
